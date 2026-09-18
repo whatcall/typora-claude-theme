@@ -7,6 +7,16 @@ Two variants are included:
 - **Claude** (`claude.css`) — cream canvas, terracotta coral accent
 - **Claude Dark** (`claude-dark.css`) — warm dark surfaces, same coral accent
 
+## Preview
+
+**Claude** (light):
+
+![Claude theme preview](claude.png)
+
+**Claude Dark**:
+
+![Claude Dark theme preview](claude-dark.png)
+
 ## Features
 
 - Warm palette derived from Claude's design tokens — no cool gray, no pure white
