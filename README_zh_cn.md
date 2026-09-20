@@ -11,13 +11,13 @@
 
 ## 预览
 
-**Claude**（亮色）：
+**Claude** —— 完整样式展示（标题、列表、引用、代码、表格、中英文）：
 
-![Claude 主题预览](claude.png)
+![Claude 主题 —— 标题、列表、引用、代码、表格](claude-full.png)
 
-**Claude Dark**（暗色）：
+**Claude Dark**：
 
-![Claude Dark 主题预览](claude-dark.png)
+![Claude Dark 主题 —— 标题、列表、引用、代码、表格](claude-dark-full.png)
 
 ## 特性
 

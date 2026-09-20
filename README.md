@@ -11,13 +11,13 @@ Two variants are included:
 
 ## Preview
 
-**Claude** (light):
+**Claude** — full style showcase (headings, lists, quote, code, table, CJK):
 
-![Claude theme preview](claude.png)
+![Claude theme — headings, lists, quote, code, table](claude-full.png)
 
 **Claude Dark**:
 
-![Claude Dark theme preview](claude-dark.png)
+![Claude Dark theme — headings, lists, quote, code, table](claude-dark-full.png)
 
 ## Features
 
